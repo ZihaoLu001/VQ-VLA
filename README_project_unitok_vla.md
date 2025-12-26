@@ -218,7 +218,6 @@ Open questions to decide soon:
 3. Scale to full dataset, compare:
    - baseline OpenVLA vision encoder
    - UniTok vision tokens
-   - (optional) hybrid (both)
 
 ---
 
